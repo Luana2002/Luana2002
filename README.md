@@ -20,4 +20,5 @@
   
 </div>
   
-![ Animação de cobra ](https://github.com/Luana2002/Luana2002/blob/output/github-contribution-grid-snake.svg)
+![Animação de cobra]
+(https://github.com/Luana2002/Luana2002/blob/output/github-contribution-grid-snake.svg)
