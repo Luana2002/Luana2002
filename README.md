@@ -8,15 +8,10 @@ Aos poucos descobrindo o mundo do desenvolvimento e a cada dia me apaixonando po
 - Brasiliense
 - Centro Universitário Estácio de Brasília
 
-  
-
-
- ##
-
 <div align="center">
   <a href="https://github.com/Luana2002">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luana2002&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana2002&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luana2002&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana2002&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
 <div style="display: inline_block"><br>
