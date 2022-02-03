@@ -1,9 +1,12 @@
 ### OIIIIEEEE TUTU BAUM!!!
+Aos poucos descobrindo o mundo do desenvolvimento e a cada dia me apaixonando por ele :)
 
-- 🔭 I’m currently working on Software Developer
-- 🌱 I’m currently learning Front-end
+- 🔭 Desenvolvedora Front-End
+- 🌱 Estagiária de desenvolvimento web
 - 📫 How to reach me: luana13paula@gmail.com
 - 😄 Pronouns: Ela/Dela
+- Brasiliense
+- Centro Universitário Estácio de Brasília
 
 <div align="center">
   <a href="https://github.com/Luana2002">
