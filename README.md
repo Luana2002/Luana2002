@@ -24,7 +24,7 @@ Aos poucos descobrindo o mundo do desenvolvimento e a cada dia me apaixonando po
   <img align="center" alt="lu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="lu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="lu-pic" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202208/229486_edBHHYZr.png?width=450&height=450">
+   <img align="right" alt="lu-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/80/5a/dc/805adce4f84eabb126bc9bd557a633c7.gif?width=450&height=450">
   <a align="right" href="https://www.imagensanimadas.com/cat-kawaii-544.htm"><img align="right" src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif?width=676&height=676" height="150" style="border-radius:50px" alt="kawai-imagem-animada-0420"/></a>
   <a align="right" href="https://www.imagensanimadas.com/cat-kawaii-544.htm"><img align="right" src="https://www.imagensanimadas.com/data/media/544/kawai-imagem-animada-0420.gif?width=676&height=676" height="150" style="border-radius:50px" alt="kawai-imagem-animada-0420"/></a>
   
