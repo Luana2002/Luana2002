@@ -1,5 +1,5 @@
-### OIIIIEEEE TUTU BAUM!!!
-Aos poucos descobrindo o mundo do desenvolvimento e a cada dia me apaixonando por ele :)
+### OIIIIEEEE TUTU BAUM!!! EU SOU A LUUUUHHH!!!!!
+Moça que está aos poucos descobrindo o mundo do desenvolvimento e a cada dia se apaixonando por ele  :)
 
 - 🔭 Desenvolvedora Front-End
 - 🌱 Estagiária de desenvolvimento web
