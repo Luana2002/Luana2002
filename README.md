@@ -24,7 +24,6 @@ Moça que está aos poucos descobrindo o mundo do desenvolvimento e a cada dia s
   <img align="center" alt="lu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="lu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="lu-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/da/2c/da/da2cdace73ddf9ee428d30f17a840b89.gif?width=450&height=450">
   <a align="right" href="https://www.imagensanimadas.com/cat-kawaii-544.htm"><img align="right" src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif?width=676&height=600" height="150" style="border-radius:50px" alt="kawai-imagem-animada-0420"/></a>
   <a align="right" href="https://www.imagensanimadas.com/cat-kawaii-544.htm"><img align="right" src="https://www.imagensanimadas.com/data/media/544/kawai-imagem-animada-0420.gif?width=676&height=676" height="150" style="border-radius:50px" alt="kawai-imagem-animada-0420"/></a>
   
