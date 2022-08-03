@@ -8,7 +8,7 @@ Aos poucos descobrindo o mundo do desenvolvimento e a cada dia me apaixonando po
 - Brasiliense
 - Centro Universitário Estácio de Brasília
 
-<a align="right" href="https://www.imagensanimadas.com/cat-kawaii-544.htm"><img align="right" src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif?width=676&height=676" height="150" style="border-radius:50px" alt="kawai-imagem-animada-0420"/></a>
+<div><a align="right" href="https://www.imagensanimadas.com/cat-kawaii-544.htm"><img align="right" src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif?width=676&height=676" height="150" style="border-radius:50px" alt="kawai-imagem-animada-0420"/></a></div>
 <div align="center">
   <a href="https://github.com/Luana2002">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luana2002&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
