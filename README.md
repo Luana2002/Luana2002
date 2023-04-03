@@ -1,8 +1,8 @@
-### OIIIIEEEE TUTU BAUM!!! EU SOU A LUUUUHHH!!!!!
+### OIIIIEEEE PESSOAL!!! EU SOU A LUANA!!!!! 
 Moça que está aos poucos descobrindo o mundo do desenvolvimento e a cada dia se apaixonando por ele  :)
 
-- 🔭 Desenvolvedora Front-End
-- 🌱 Estagiária de desenvolvimento web
+- 🔭 Especialista em Desenvolvimento Front-End
+- 🌱 Desenvolvedora Front-End Júnior - Cebraspe
 - 📫 How to reach me: luana13paula@gmail.com
 - 😄 Pronouns: Ela/Dela
 - Brasiliense
