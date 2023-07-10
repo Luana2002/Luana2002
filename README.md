@@ -1,12 +1,11 @@
-### OIIIIEEEE PESSOAL!!! EU SOU A LUANA!!!!! 
-Moça que está aos poucos descobrindo o mundo do desenvolvimento e a cada dia se apaixonando por ele  :)
+### Sejam Bem-vindos ao meu Git!!! Eu sou a Luana Rodrigues!!!!! 
+Analista de Sistemas, com foco em Front-end 😄
 
-- 🔭 Especialista em Desenvolvimento Front-End
-- 🌱 Desenvolvedora Front-End Júnior - Cebraspe
-- 📫 How to reach me: luana13paula@gmail.com
+- 🔭 Se especializando em Desenvolvimento Front-End
+- 🌱 Desenvolvedora Front-End Júnior
+- 📫 Entre em contato pelo e-amil: luana13paula@gmail.com
 - 😄 Pronouns: Ela/Dela
 - Brasiliense
-- Centro Universitário Estácio de Brasília
     <br/>
     <br/>
 
