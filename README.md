@@ -11,13 +11,12 @@ Moça que está aos poucos descobrindo o mundo do desenvolvimento e a cada dia s
 
 <div align="center">
   <a href="https://github.com/Luana2002">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luana2002&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana2002&layout=compact&langs_count=7&theme=dark"/>
-</div>
- <div>
-  <a href="https://www.linkedin.com/in/luana-rodrigues-1842ab1a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- </div>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Luana2002&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana2002&layout=compact&langs_count=7&theme=dark"/>
+     </div>
   
+  <a href="https://www.linkedin.com/in/luana-rodrigues-1842ab1a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="lu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="lu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
