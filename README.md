@@ -17,7 +17,7 @@ Analista de Sistemas, com foco em Front-end 😄
     <br/>
       
 <div align="center" style="display: inline_block">
-  <a href="https://www.linkedin.com/in/luana-rodrigues-1842ab1a4" target="_blank">
+  <a href="https://www.linkedin.com/in/luana-rodrigues-de-paula/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
     <img align="center" alt="lu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
