@@ -12,12 +12,11 @@ Moça que está aos poucos descobrindo o mundo do desenvolvimento e a cada dia s
 
 <div align="center">
   <a href="https://github.com/Luana2002">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana2002&layout=donut&theme=synthwave&langs_count=7"/>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana2002&layout=compact&theme=cobalt&langs_count=7"/>
 </div>
-     <br/>
     <br/>
-    <br/>
+      
 <div align="center" style="display: inline_block">
   <a href="https://www.linkedin.com/in/luana-rodrigues-1842ab1a4" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -30,7 +29,7 @@ Moça que está aos poucos descobrindo o mundo do desenvolvimento e a cada dia s
 </div> 
     <br/>
     <br/>
-    <br/>
+
   <div align="center">
   <a href="https://www.imagensanimadas.com/cat-kawaii-544.htm">
     <img align="center" src="https://www.icegif.com/wp-content/uploads/icegif-2013.gif?width=676&height=600" height="100" style="border-radius:50px" alt="kawai-imagem-animada-0420"/></a>
