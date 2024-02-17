@@ -11,8 +11,8 @@ Analista de Sistemas, com foco em Front-end 😄
 
 <div align="center">
   <a href="https://github.com/Luana2002">
-  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana2002&layout=compact&theme=cobalt&langs_count=7"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Luana2002&show_icons=true&theme=cobalt"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana2002&layout=compact&theme=cobalt&langs_count=7"/>
 </div>
     <br/>
       
