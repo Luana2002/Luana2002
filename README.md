@@ -2,7 +2,8 @@
 Analista de Sistemas, com foco em Front-end 😄
 
 - 🔭 Se especializando em Desenvolvimento Front-End
-- 🌱 Desenvolvedora Front-End Júnior
+- 💻 Analista de Requisitos
+- 🌱 Desenvolvedora Front-End Por Hobbie
 - 📫 Entre em contato pelo e-amil: luana13paula@gmail.com
 - 😄 Pronouns: Ela/Dela
 - Brasiliense
